@@ -24,6 +24,7 @@ A aplicação pode ser integrada com sistemas de transparência pública.
 Suporte a múltiplos perfis de usuário (admin e visitante).
 
 📂 Organização
+
 /frontend         -> Aplicação Angular
 
 /backend          -> API REST com Spring Boot
